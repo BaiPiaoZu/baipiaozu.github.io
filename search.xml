@@ -127,7 +127,328 @@
 </tbody></table>
 ]]></content>
       <tags>
-        <tag>pc</tag>
+        <tag>PC</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>超好用的开源&amp;免费软件推荐</title>
+    <url>/2022/04/04/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BC%80%E6%BA%90&amp;%E5%85%8D%E8%B4%B9%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
+    <content><![CDATA[<blockquote>
+<p>如果软件在下载地址那下载速度过慢，推荐使用联想软件商店下载，下载地址：<a href="https://lestore.lenovo.com/">联想应用商店 (lenovo.com)</a></p>
+</blockquote>
+<h3 id="日常使用类"><a href="#日常使用类" class="headerlink" title="日常使用类"></a>日常使用类</h3><ul>
+<li><p>edge</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：微软出品的浏览器，使用体验非常棒，强烈推荐</li>
+<li>下载地址：<a href="https://www.microsoft.com/zh-cn/edge">下载 Microsoft Edge Web 浏览器 | Microsoft</a></li>
+</ul>
+</li>
+<li><p>搜狗输入法</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：免费好用的输入法，词库强大，如果登录账号还可以同步词库，就是有广告，推荐使用火绒把广告屏蔽掉</li>
+<li>下载地址：<a href="https://pinyin.sogou.com/">搜狗输入法 - 首页 (sogou.com)</a></li>
+</ul>
+</li>
+<li><p>TIM</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：干净无花里胡哨版本的QQ</li>
+<li>下载地址：<a href="https://office.qq.com/">TIM (qq.com)</a></li>
+</ul>
+</li>
+<li><p>geek</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：简单好用的卸载软件</li>
+<li>下载地址：<a href="https://geekuninstaller.com/">Geek Uninstaller - the best FREE uninstaller</a></li>
+</ul>
+</li>
+<li><p>bcuninstaller</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：功能强大的卸载软件，但是有一定的入门门槛，推荐在b站看看教程在使用，如果不想看教程的推荐使用geek</li>
+<li>下载地址：<a href="https://www.bcuninstaller.com/">Bulk Crap Uninstaller - Remove large amounts of unwanted applications (bcuninstaller.com)</a></li>
+</ul>
+</li>
+<li><p>火绒</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：国产良心不流氓的杀毒软件，各项功能都堪称一绝</li>
+<li>下载地址：<a href="https://www.huorong.cn/">火绒安全 (huorong.cn)</a></li>
+</ul>
+</li>
+<li><p>7zip</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：简洁好用且开源的解压缩软件，就是界面和图标略有些古老</li>
+<li>下载地址：<a href="https://www.7-zip.org/">7-Zip</a></li>
+</ul>
+</li>
+<li><p>bandizip</p>
+<ul>
+<li>特点：免费 有广告</li>
+<li>介绍：功能和颜值都俱佳的解压缩软件，风靡全世界的解压软件，可惜新版免费版有广告，可以去百度找旧版使用，也可以直接用火绒屏蔽掉广告</li>
+<li>下载地址：<a href="http://www.bandisoft.com/">Bandisoft - Bandizip, Honeycam, Honeyview</a></li>
+</ul>
+</li>
+<li><p>everything</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：秒搜软件，如果你找不到文件在哪了，又深受系统搜索速度的折磨，那么推荐使用这款软件</li>
+<li>下载地址：<a href="https://www.voidtools.com/zh-cn/">voidtools</a></li>
+</ul>
+</li>
+<li><p>coodesker</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的桌面整理软件</li>
+<li>下载地址：<a href="https://www.coodesker.com/">Coodesker - Desktop organize tool</a><h3 id="视频类"><a href="#视频类" class="headerlink" title="视频类"></a>视频类</h3></li>
+</ul>
+</li>
+<li><p>potplayer</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：堪称完美的本地视频播放器，功能强大</li>
+<li>下载地址：<a href="https://www.ghxi.com/potplayer.html">PotPlayer(网络播放器) v1.7.21620 绿色版 - 果核剥壳 (ghxi.com)</a></li>
+</ul>
+</li>
+<li><p>vlc</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的本地视频播放器，功能比肩potplayer，就是界面略显古老，不是颜值党的可以使用</li>
+<li>下载地址：<a href="https://www.videolan.org/">VLC：官方网站 - 全平台的自由多媒体解决方案！ - VideoLAN</a></li>
+</ul>
+</li>
+<li><p>handbrake</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：国内外非常知名的免费开源视频转码软件，功能非常强大，如果想做视频的可以下载一个</li>
+<li>下载地址：<a href="https://handbrake.fr/">HandBrake: Open Source Video Transcoder</a></li>
+</ul>
+</li>
+<li><p>剪映</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：国产超强的视频剪辑软件，功能强大易上手</li>
+<li>下载地址：<a href="https://lv.ulikecam.com/">剪映专业版-全能易用的桌面端剪辑软件-轻而易剪 上演大幕 (ulikecam.com)</a></li>
+</ul>
+</li>
+<li><p>kdenlive</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的视频剪辑软件，教程少，功能强大，但是存在一些bug，同时要求配置不低</li>
+<li>下载地址：<a href="https://kdenlive.org/zh/">https://kdenlive.org/zh/</a></li>
+</ul>
+</li>
+<li><p>shotcut</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的视频剪辑软件，功能基本够用，但是要求配置较高，且有一点的问题，但是上手难度较低，且有一点数量的教程</li>
+<li>下载地址：<a href="https://www.shotcut.org/">Shotcut - Home</a></li>
+</ul>
+</li>
+<li><p>DaVinci Resolve</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：免费版功能也十分的强大，但是配置要求极高</li>
+<li>下载地址：<a href="http://www.blackmagicdesign.com/cn/products/davinciresolve/">DaVinci Resolve 17 | Blackmagic Design</a></li>
+</ul>
+</li>
+<li><p>subtitle edit</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：开源免费的视频字幕编辑软件</li>
+<li>下载地址：<a href="https://www.nikse.dk/subtitleedit">Nikse - Subtitle Edit</a></li>
+</ul>
+</li>
+<li><p>aegisub</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的视频字幕编辑软件</li>
+<li>下载地址：<a href="https://aegi.vmoe.info/">Aegisub 高级字幕编辑器 (vmoe.info)</a></li>
+</ul>
+</li>
+<li><p>arctime</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：国内使用数量庞大的视频字幕编辑软件</li>
+<li>下载地址：<a href="http://arctime.cn/">ArcTime Pro跨平台字幕软件 | Arctime字幕软件</a></li>
+</ul>
+</li>
+<li><p>quickcut</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级好用的视频制作工具箱，包含转码等一系列功能</li>
+<li>下载地址：<a href="https://github.com/HaujetZhao/QuickCut">HaujetZhao&#x2F;QuickCut: Your most handy video processing software (github.com)</a></li>
+</ul>
+</li>
+<li><p>小丸工具箱</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：同上</li>
+<li>下载地址：<a href="https://maruko.appinn.me/index.html">小丸工具箱官方网站 (appinn.me)</a><h3 id="截图录像类"><a href="#截图录像类" class="headerlink" title="截图录像类"></a>截图录像类</h3></li>
+</ul>
+</li>
+<li><p>snipaste</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级无敌好用的截图软件，用过就回不去了，建议作图的，搞编程的都可以下载一个</li>
+<li>下载地址：<a href="https://zh.snipaste.com/">Snipaste - 截图 + 贴图</a></li>
+</ul>
+</li>
+<li><p>sharex</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：被誉为截图界的瑞士军刀，功能无与伦比的强大，但是上手有一定的难度，但是b站有教程，推荐开源党可以使用</li>
+<li>下载地址：<a href="https://getsharex.com/">ShareX - The best free and open source screenshot tool for Windows (getsharex.com)</a></li>
+</ul>
+</li>
+<li><p>obs studio</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：堪称世界最强的免费开源直播推流兼视频录制软件，功能极其强大，但是需要配置，有一定的上手难度，但是b站教程极多，不用担心学不会。</li>
+<li>下载地址：<a href="https://obsproject.com/">Open Broadcaster Software | OBS (obsproject.com)</a></li>
+</ul>
+</li>
+<li><p>captura</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：简单好上手的视频录制软件，功能同样强大，且可录制gif，并且有鼠标点击高亮，键盘按键提示，推荐喜欢录制教程的朋友使用，可惜软件已经停止了维护</li>
+<li>下载地址：<a href="https://mathewsachin.github.io/Captura/">Captura (mathewsachin.github.io)</a><h3 id="设计类"><a href="#设计类" class="headerlink" title="设计类"></a>设计类</h3></li>
+</ul>
+</li>
+<li><p>Honeyview</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：堪称最顶级的免费看图软件，设计师必备，可以查看psd等图</li>
+<li>下载地址：<a href="https://www.bandisoft.com/honeyview/">Honeyview · 蜂蜜浏览器 · 免费的图像查看器 · 下载和功能说明 (bandisoft.com)</a></li>
+</ul>
+</li>
+<li><p>sagethumbs</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：设计师必备软件，可以查看psd等图的略缩图，大大提升效率，体型小巧</li>
+<li>下载地址：<a href="https://sagethumbs.en.softonic.com/">SageThumbs - Download (softonic.com)</a></li>
+</ul>
+</li>
+<li><p>inkscape</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的矢量图绘制软件</li>
+<li>下载地址：<a href="https://inkscape.org/">Draw Freely | Inkscape</a></li>
+</ul>
+</li>
+<li><p>krita</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的绘画软件，功能极其强大，但是对于配置有一定的要求</li>
+<li>下载地址：<a href="https://www.krita.org/">www.krita.org</a></li>
+</ul>
+</li>
+<li><p>图压</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的图片压缩软件</li>
+<li>下载地址：<a href="https://tuya.xinxiao.tech/">图压 - 简单易用的图片压缩软件 (xinxiao.tech)</a><h3 id="学习类"><a href="#学习类" class="headerlink" title="学习类"></a>学习类</h3></li>
+</ul>
+</li>
+<li><p>思源笔记</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级好用的本地笔记软件</li>
+<li>下载地址：<a href="https://b3log.org/siyuan/">思源笔记 - 本地优先的个人知识管理系统，支持 Markdown 排版、块级引用和双向链接 (b3log.org)</a></li>
+</ul>
+</li>
+<li><p>zotero</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级无敌牛逼的开源文献管理软件，内置超级强大的pdf工具，推荐电脑学习党安装</li>
+<li>下载地址：<a href="https://www.zotero.org/">Zotero | Your personal research assistant</a></li>
+</ul>
+</li>
+<li><p>calibre</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级无敌牛逼的本地书籍管理软件</li>
+<li>下载地址：<a href="https://calibre-ebook.com/">calibre - E-book management (calibre-ebook.com)</a></li>
+</ul>
+</li>
+<li><p>koodo</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：颜值超级无敌高的免费开源电子书&amp;漫画阅读器</li>
+<li>下载地址：<a href="https://koodo.960960.xyz/zh">Koodo Reader (960960.xyz)</a></li>
+</ul>
+</li>
+<li><p>sumatrapdf</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级无敌轻量且开源的pdf查看器，打开pdf的速度超级快</li>
+<li>下载地址：<a href="https://www.sumatrapdfreader.org/free-pdf-reader">Free PDF Reader - Sumatra PDF (sumatrapdfreader.org)</a><h3 id="编程类"><a href="#编程类" class="headerlink" title="编程类"></a>编程类</h3></li>
+</ul>
+</li>
+<li><p>notepad3</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：超级好用的免费开源文本编辑器，用来看代码很舒服</li>
+<li>下载地址：<a href="https://www.rizonesoft.com/downloads/notepad3/">Download Notepad3 - Notepad replacement with syntax highlighting. (rizonesoft.com)</a></li>
+</ul>
+</li>
+<li><p>vscode</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：微软出品超强的文本编辑器，插件繁多，写前端必备</li>
+<li>下载地址：<a href="https://code.visualstudio.com/">Visual Studio Code - Code Editing. Redefined</a><h3 id="效率类"><a href="#效率类" class="headerlink" title="效率类"></a>效率类</h3></li>
+</ul>
+</li>
+<li><p>utools</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：键盘党狂喜的超级效率软件</li>
+<li>下载地址：<a href="http://www.u.tools/">uTools官网 - 新一代效率工具平台</a></li>
+</ul>
+</li>
+<li><p>quicker</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：有免费版和收费版，个人感觉免费版够用，鼠标党狂喜的效率神器</li>
+<li>下载地址：<a href="https://getquicker.net/">Quicker软件 您的指尖工具箱 - Quicker (getquicker.net)</a><h3 id="折腾类"><a href="#折腾类" class="headerlink" title="折腾类"></a>折腾类</h3></li>
+</ul>
+</li>
+<li><p>vmware player</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：vmware家出品的免费版虚拟机，功能强大</li>
+<li>下载地址：<a href="https://www.vmware.com/products/workstation-player.html">VMware Workstation Player | VMware</a></li>
+</ul>
+</li>
+<li><p>virtualbox</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的虚拟机软件，国内部分安卓模拟器的祖宗</li>
+<li>下载地址：<a href="https://www.virtualbox.org/">Oracle VM VirtualBox</a><h3 id="远程控制类"><a href="#远程控制类" class="headerlink" title="远程控制类"></a>远程控制类</h3></li>
+</ul>
+</li>
+<li><p>todesk</p>
+<ul>
+<li>特点：免费</li>
+<li>介绍：免费的国产远程控制软件</li>
+<li>下载地址：<a href="https://www.todesk.com/">ToDesk远程控制软件-免费安全流畅的远程连接电脑手机</a></li>
+</ul>
+</li>
+<li><p>rustdesk</p>
+<ul>
+<li>特点：免费 开源</li>
+<li>介绍：免费开源的远程控制软件</li>
+<li>下载地址：<a href="https://rustdesk.com/zh/">RustDesk | 开源远程桌面软件</a></li>
+</ul>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>pc</category>
+      </categories>
   </entry>
 </search>
