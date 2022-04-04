@@ -1,6 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>装机必备软件大全（包含软件推荐）</title>
+    <url>/2022/04/04/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E5%A4%A7%E5%85%A8%EF%BC%88%E5%8C%85%E5%90%AB%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%EF%BC%89/</url>
+    <content><![CDATA[<blockquote>
+<p>以下是装机必备软件推荐</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">软件名</th>
+<th align="center">软件介绍</th>
+<th align="center">下载链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">百分浏览器</td>
+<td align="center">国内最好用的chrome衍生版,配合上插件使用非常的舒服</td>
+<td align="center"><a href="http://www.centbrowser.cn/">http://www.centbrowser.cn/</a></td>
+</tr>
+<tr>
+<td align="center">360驱动大师</td>
+<td align="center">虽然我很讨厌360,但360个人觉得还是国内驱动软件里面最干净的</td>
+<td align="center"><a href="https://dm.weishi.360.cn/home.html">https://dm.weishi.360.cn/home.html</a></td>
+</tr>
+<tr>
+<td align="center">完美解码</td>
+<td align="center">应该大概算是win下颜值和功能平衡上最好的播放器了</td>
+<td align="center"><a href="https://jm.wmzhe.com/">https://jm.wmzhe.com/</a></td>
+</tr>
+<tr>
+<td align="center">Honeyview</td>
+<td align="center">应该算是win下最好的免费图片查看器了,配合sagethumbs体验非常好</td>
+<td align="center"><a href="https://www.bandisoft.com/honeyview/">https://www.bandisoft.com/honeyview/</a></td>
+</tr>
+<tr>
+<td align="center">7zip</td>
+<td align="center">win下最精简小巧的解压缩软件</td>
+<td align="center"><a href="https://www.7-zip.org/">https://www.7-zip.org/</a></td>
+</tr>
+<tr>
+<td align="center">火绒安全</td>
+<td align="center">win下最安静的安全软件,垃圾清理和广告屏蔽的功能都十分的出色</td>
+<td align="center"><a href="https://www.huorong.cn/">https://www.huorong.cn/</a></td>
+</tr>
+<tr>
+<td align="center">everything</td>
+<td align="center">秒搜文件</td>
+<td align="center"><a href="https://www.voidtools.com/zh-cn/">https://www.voidtools.com/zh-cn/</a></td>
+</tr>
+<tr>
+<td align="center">geek</td>
+<td align="center">最精简小巧的卸载神器,不占用空间,但是功能及其强大</td>
+<td align="center"><a href="https://geekuninstaller.com/">https://geekuninstaller.com/</a></td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>以下是我个人推荐的软件</p>
+</blockquote>
+<table>
+<thead>
+<tr>
+<th align="center">软件名</th>
+<th align="center">软件介绍</th>
+<th align="center">下载链接</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">wolai</td>
+<td align="center">个人日记本</td>
+<td align="center"><a href="https://www.wolai.com/">https://www.wolai.com/</a></td>
+</tr>
+<tr>
+<td align="center">pandaocr</td>
+<td align="center">ocr文字识别,免费开源</td>
+<td align="center"><a href="https://github.com/miaomiaosoft/PandaOCR/releases">https://github.com/miaomiaosoft/PandaOCR/releases</a></td>
+</tr>
+<tr>
+<td align="center">eartrumpet</td>
+<td align="center">win10下的音量管理</td>
+<td align="center">微软商店</td>
+</tr>
+<tr>
+<td align="center">联想软件商店</td>
+<td align="center">非常干净的软件下载软件</td>
+<td align="center"><a href="https://lestore.lenovo.com/">https://lestore.lenovo.com/</a></td>
+</tr>
+<tr>
+<td align="center">vlc</td>
+<td align="center">免费开源的播放器,就是有点简陋</td>
+<td align="center"><a href="https://www.videolan.org/">https://www.videolan.org/</a></td>
+</tr>
+<tr>
+<td align="center">mpv</td>
+<td align="center">免费开源的播放器,但是过于极客</td>
+<td align="center"><a href="https://mpv.io/">https://mpv.io/</a></td>
+</tr>
+<tr>
+<td align="center">foobar2000</td>
+<td align="center">免费无损的音频播放器,推荐使用第三方的,更美观</td>
+<td align="center"><a href="https://www.foobar2000.org/">https://www.foobar2000.org/</a></td>
+</tr>
+<tr>
+<td align="center">obs studio</td>
+<td align="center">免费开源录屏软件,功能十分的强大</td>
+<td align="center"><a href="https://obsproject.com/">https://obsproject.com/</a></td>
+</tr>
+</tbody></table>
+]]></content>
+      <tags>
+        <tag>PC</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>超好用的开源&amp;免费软件推荐</title>
     <url>/2022/04/04/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BC%80%E6%BA%90&amp;%E5%85%8D%E8%B4%B9%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</url>
     <content><![CDATA[<blockquote>
@@ -320,117 +432,5 @@
       <categories>
         <category>pc</category>
       </categories>
-  </entry>
-  <entry>
-    <title>装机必备软件大全（包含软件推荐）</title>
-    <url>/2022/04/04/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E5%A4%A7%E5%85%A8%EF%BC%88%E5%8C%85%E5%90%AB%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%EF%BC%89/</url>
-    <content><![CDATA[<blockquote>
-<p>以下是装机必备软件推荐</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">软件名</th>
-<th align="center">软件介绍</th>
-<th align="center">下载链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">百分浏览器</td>
-<td align="center">国内最好用的chrome衍生版,配合上插件使用非常的舒服</td>
-<td align="center"><a href="http://www.centbrowser.cn/">http://www.centbrowser.cn/</a></td>
-</tr>
-<tr>
-<td align="center">360驱动大师</td>
-<td align="center">虽然我很讨厌360,但360个人觉得还是国内驱动软件里面最干净的</td>
-<td align="center"><a href="https://dm.weishi.360.cn/home.html">https://dm.weishi.360.cn/home.html</a></td>
-</tr>
-<tr>
-<td align="center">完美解码</td>
-<td align="center">应该大概算是win下颜值和功能平衡上最好的播放器了</td>
-<td align="center"><a href="https://jm.wmzhe.com/">https://jm.wmzhe.com/</a></td>
-</tr>
-<tr>
-<td align="center">Honeyview</td>
-<td align="center">应该算是win下最好的免费图片查看器了,配合sagethumbs体验非常好</td>
-<td align="center"><a href="https://www.bandisoft.com/honeyview/">https://www.bandisoft.com/honeyview/</a></td>
-</tr>
-<tr>
-<td align="center">7zip</td>
-<td align="center">win下最精简小巧的解压缩软件</td>
-<td align="center"><a href="https://www.7-zip.org/">https://www.7-zip.org/</a></td>
-</tr>
-<tr>
-<td align="center">火绒安全</td>
-<td align="center">win下最安静的安全软件,垃圾清理和广告屏蔽的功能都十分的出色</td>
-<td align="center"><a href="https://www.huorong.cn/">https://www.huorong.cn/</a></td>
-</tr>
-<tr>
-<td align="center">everything</td>
-<td align="center">秒搜文件</td>
-<td align="center"><a href="https://www.voidtools.com/zh-cn/">https://www.voidtools.com/zh-cn/</a></td>
-</tr>
-<tr>
-<td align="center">geek</td>
-<td align="center">最精简小巧的卸载神器,不占用空间,但是功能及其强大</td>
-<td align="center"><a href="https://geekuninstaller.com/">https://geekuninstaller.com/</a></td>
-</tr>
-</tbody></table>
-<blockquote>
-<p>以下是我个人推荐的软件</p>
-</blockquote>
-<table>
-<thead>
-<tr>
-<th align="center">软件名</th>
-<th align="center">软件介绍</th>
-<th align="center">下载链接</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">wolai</td>
-<td align="center">个人日记本</td>
-<td align="center"><a href="https://www.wolai.com/">https://www.wolai.com/</a></td>
-</tr>
-<tr>
-<td align="center">pandaocr</td>
-<td align="center">ocr文字识别,免费开源</td>
-<td align="center"><a href="https://github.com/miaomiaosoft/PandaOCR/releases">https://github.com/miaomiaosoft/PandaOCR/releases</a></td>
-</tr>
-<tr>
-<td align="center">eartrumpet</td>
-<td align="center">win10下的音量管理</td>
-<td align="center">微软商店</td>
-</tr>
-<tr>
-<td align="center">联想软件商店</td>
-<td align="center">非常干净的软件下载软件</td>
-<td align="center"><a href="https://lestore.lenovo.com/">https://lestore.lenovo.com/</a></td>
-</tr>
-<tr>
-<td align="center">vlc</td>
-<td align="center">免费开源的播放器,就是有点简陋</td>
-<td align="center"><a href="https://www.videolan.org/">https://www.videolan.org/</a></td>
-</tr>
-<tr>
-<td align="center">mpv</td>
-<td align="center">免费开源的播放器,但是过于极客</td>
-<td align="center"><a href="https://mpv.io/">https://mpv.io/</a></td>
-</tr>
-<tr>
-<td align="center">foobar2000</td>
-<td align="center">免费无损的音频播放器,推荐使用第三方的,更美观</td>
-<td align="center"><a href="https://www.foobar2000.org/">https://www.foobar2000.org/</a></td>
-</tr>
-<tr>
-<td align="center">obs studio</td>
-<td align="center">免费开源录屏软件,功能十分的强大</td>
-<td align="center"><a href="https://obsproject.com/">https://obsproject.com/</a></td>
-</tr>
-</tbody></table>
-]]></content>
-      <tags>
-        <tag>PC</tag>
-      </tags>
   </entry>
 </search>
